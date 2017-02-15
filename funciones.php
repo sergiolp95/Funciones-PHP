@@ -7,13 +7,17 @@
 	
 	.pregunta{
 		color: blue;
+		font-size: 20px;
 	}
 
 	.respuesta{
 		color: black;
+		font-size: 16px;
 	}
 	.resultado{
 		color: red;
+		font-size: 18px;
+		font-weight: bold;
 	}
 
 </style>
